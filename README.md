@@ -1,2 +1,2 @@
-# statistics
-Repo to upload R and Py programs to make statistics exercises
+# Statistics
+Repository to upload R and Py programs to make statistics exercises
